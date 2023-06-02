@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Bowlby+One&family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    transition: .3s ease;
+    background-color: #F5F5F5;
+}
+
+.blue-text-colour {
+    color: #91B0C1;
+}
+
+p, span, a {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Bowlby One', cursive;
+}
